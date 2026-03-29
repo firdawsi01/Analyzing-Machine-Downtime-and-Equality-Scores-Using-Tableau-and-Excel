@@ -6,6 +6,12 @@ This project was completed as part of the Forage Data Analytics Virtual Experien
 
 The objective was to analyze operational data, identify inefficiencies, and generate actionable insights using data visualization and classification techniques.
 
+### Dashboard Preview
+
+The interactive dashboard below shows machine downtime by factory and device type:
+
+![Dashboard Preview](dashboard.png)
+
 ## Objectives
 - Analyze machine downtime across multiple factories
 - Identify high-risk machine types contributing to operational inefficiencies
